@@ -1,6 +1,6 @@
 # The Jainism Party
 
-To register the Jainism Party with the electoral commission a party constitution is required
+To register the Jainism Party with the electoral commission a constitution is required
   
 
 Links to the constitutions of some already registered parties:-
