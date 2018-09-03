@@ -9,4 +9,12 @@ libdems.org.uk/constitution
 somethingnew.org.uk/about/documents/party-constitution  
 electoralcommission.org.uk/__data/assets/pdf_file/0004/67657/FOI8508-online-version-all-documents.pdf  
 whatdotheyknow.com/request/99525/response/241719/attach/2/Conservative Party Constitution.pdf  
-nhaparty.org/about-nha-party/constitution-and-documents
+nhaparty.org/about-nha-party/constitution-and-documents  
+  
+  
+A financial scheme will also be required  
+  
+Links to financial schemes of other existing parties
+  
+nhaparty.org/wp-content/uploads/2013/01/Financial-scheme-2017.pdf  
+somethingnew.org.uk/about/documents/financial-scheme
