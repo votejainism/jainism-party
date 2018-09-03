@@ -12,7 +12,7 @@ whatdotheyknow.com/request/99525/response/241719/attach/2/Conservative Party Con
 nhaparty.org/about-nha-party/constitution-and-documents  
   
   
-A financial scheme will also be required  
+A financial scheme is also required  
   
 Links to financial schemes of other existing parties
   
