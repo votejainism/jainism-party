@@ -1,4 +1,4 @@
-# jainism-party
+# The Jainism Party
 
 To register the Jainism Party with the electoral commission a party constitution is required
   
