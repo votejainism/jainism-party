@@ -1,6 +1,6 @@
 # The Jainism Party
 
-To register the Jainism Party with the Electoral Commission a constitution is required
+To register the Jainism Party with the Electoral Commission a constitution is required.
   
 
 Here are some links to the constitutions of some already registered parties:-
@@ -11,8 +11,10 @@ electoralcommission.org.uk/__data/assets/pdf_file/0004/67657/FOI8508-online-vers
 whatdotheyknow.com/request/99525/response/241719/attach/2/Conservative Party Constitution.pdf  
 nhaparty.org/about-nha-party/constitution-and-documents  
 politike.al/wp-content/uploads/2016/03/Statuti-i-Partise-Nacionaliste-Britani.pdf  
+cymrusovereign.cymru/party-constitution-2  
+englishdemocrats.party/our-party/constitution  
   
-A financial scheme is also required  
+A financial scheme is also required.  
   
 Here are some links to the financial schemes of some already registered parties:-
   
