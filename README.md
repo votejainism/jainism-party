@@ -17,8 +17,8 @@ nhaparty.org/about-nha-party/constitution-and-documents
   
 A financial scheme is also required.  
   
-Here is the model financial scheme provided by the Commission:-  
-electoralcommission.org.uk/__data/assets/word_doc/0007/68317/doc-financial-rp.doc
+Here is a link to the model financial scheme provided by the Commission:-  
+[model financial scheme](http://electoralcommission.org.uk/__data/assets/word_doc/0007/68317/doc-financial-rp.doc)
   
 Here are some links to the financial schemes of some already registered parties:-  
   
