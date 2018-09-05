@@ -71,3 +71,15 @@ The constitution must show the structure and organisation of a party.  In order 
 The constitution must also be consistent with a party’s financial scheme.
 
 Should you have any questions about party registration, please contact us.
+  
+  
+  
+29 August 2018 11:41
+  
+Thanks very much for your prompt reply.
+  
+In your reply you state that I could register my own party by fulfilling the officer roles of party leader, treasurer, and nominating officer myself and have at least 2 people as officers. However I have noticed that there are parties already registered which only have one additional officer, not two.  
+For example, the Abolish the Town Council Party  
+http://search.electoralcommission.org.uk/English/Registrations/PP6745  
+So, could I register my party with only one additional officer?  
+Furthermore, do additional officers not even need to be resident in the United Kingdom?
