@@ -18,5 +18,6 @@ A financial scheme is also required.
   
 Here are some links to the financial schemes of some already registered parties:-
   
+electoralcommission.org.uk/__data/assets/word_doc/0007/68317/doc-financial-rp.doc  
 nhaparty.org/wp-content/uploads/2013/01/Financial-scheme-2017.pdf  
 somethingnew.org.uk/about/documents/financial-scheme
