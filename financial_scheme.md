@@ -1,4 +1,4 @@
-# The Financial Scheme of the Jainism Party  
+# The Jainism Party Financial Scheme  
   
 ### Introduction  
   
