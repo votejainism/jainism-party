@@ -16,9 +16,10 @@ englishdemocrats.party/our-party/constitution
 timeparty.uk/wp-content/uploads/2018/07/TimeParty-Constitution-rev22254.pdf  
   
 A financial scheme is also required.  
+Here is the model financial scheme provided by the commission:-  
+electoralcommission.org.uk/__data/assets/word_doc/0007/68317/doc-financial-rp.doc
   
-Here are some links to the financial schemes of some already registered parties:-
+Here are some links to the financial schemes of some already registered parties:-  
   
-electoralcommission.org.uk/__data/assets/word_doc/0007/68317/doc-financial-rp.doc  
 nhaparty.org/wp-content/uploads/2013/01/Financial-scheme-2017.pdf  
 somethingnew.org.uk/about/documents/financial-scheme
