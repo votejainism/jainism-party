@@ -7,7 +7,7 @@ Here are some links to the constitutions of some already registered parties:-
 
 [libdems.org.uk](http://libdems.org.uk/constitution)  
 [somethingnew.org.uk](http://somethingnew.org.uk/about/documents/party-constitution)  
-electoralcommission.org.uk/__data/assets/pdf_file/0004/67657/FOI8508-online-version-all-documents.pdf  
+[labour.org.uk](http://electoralcommission.org.uk/__data/assets/pdf_file/0004/67657/FOI8508-online-version-all-documents.pdf)  
 whatdotheyknow.com/request/99525/response/241719/attach/2/Conservative Party Constitution.pdf  
 nhaparty.org/about-nha-party/constitution-and-documents  
 [snp.org](http://politike.al/wp-content/uploads/2016/03/Statuti-i-Partise-Nacionaliste-Britani.pdf)  
