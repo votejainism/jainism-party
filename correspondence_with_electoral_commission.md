@@ -1,10 +1,10 @@
-21 August 2018 15:02
+### 21 August 2018 15:02
 
 I understand that at minimum a political party must consist of two people; the leader and an additional officer. My question is does this additional officer have to be a citizen of the United Kingdom? I'm interested in starting a political party.
 
 
 
-21 August 2018 17:22
+### 21 August 2018 17:22
 
 Dear Ian White,
 
@@ -74,7 +74,7 @@ Should you have any questions about party registration, please contact us.
   
   
   
-29 August 2018 11:41
+### 29 August 2018 11:41
   
 Thanks very much for your prompt reply.
   
@@ -83,3 +83,33 @@ For example, the Abolish the Town Council Party
 http://search.electoralcommission.org.uk/English/Registrations/PP6745  
 So, could I register my party with only one additional officer?  
 Furthermore, do additional officers not even need to be resident in the United Kingdom?
+
+### 29 August 2018 12:04
+
+Dear Ian White,
+
+A party requires 2 officers total. That could mean 1 officer who fulfils the roles of leader, nominating officer and treasurer, and 1 officer who is registered as an additional officer. But 1 person does not need to fill all of the roles of leader, nominating officer and treasurer, so those 2 people would meet the 2 officer requirement.
+
+For example, 1 officer could be the leader and treasurer roles, and another officer could be the nominating officer role. This would then meet the requirement of a party having 2 officers and fulfilling all of the required officer roles.
+
+As mentioned in previous email, there is not citizenship requirement for party officers.
+
+### 29 August 2018 12:36
+
+Again thanks very much for the prompt reply.
+
+So, an officer could be a resident and citizen of India and not even have visited the United Kingdom before? And have no intention of doing so?
+
+Sorry for asking you this but I don't recall this being mentioned in any of the literature I've read up to now.
+
+### 29 August 2018 13:49
+
+Dear Ian White,
+
+If an officer is not resident in the UK, then we will consider whether this has an impact on the parties ability to fulfil any of its obligations to the Commission. This most relevant to the role of treasurer as this officer role has a number of financial reporting requirements to the Commission.
+
+We would consider if this prevents a party from adopting its financial scheme. As part of an application, a party can only be registered if the Commission is satisfied that it has adopted its financial scheme. We may ask you to provide supporting information to demonstrate this.
+
+We will also consider whether this has an impact on a party’s intention to contest elections. As part of an application, a party makes a declaration that it intends to contest one or more elections in a part of the UK that it is registering for. If we have any concerns in this regard, we may request a party to provide supporting information.
+
+Such considerations are made on a case by case basis on the facts of each case. I cannot give you further guidance at this stage unless I am in receipt of an application.
