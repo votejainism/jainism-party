@@ -10,7 +10,7 @@ Here are some links to the constitutions of some already registered parties:-
 electoralcommission.org.uk/__data/assets/pdf_file/0004/67657/FOI8508-online-version-all-documents.pdf  
 whatdotheyknow.com/request/99525/response/241719/attach/2/Conservative Party Constitution.pdf  
 nhaparty.org/about-nha-party/constitution-and-documents  
-politike.al/wp-content/uploads/2016/03/Statuti-i-Partise-Nacionaliste-Britani.pdf  
+[snp.org](http://politike.al/wp-content/uploads/2016/03/Statuti-i-Partise-Nacionaliste-Britani.pdf)  
 [cymrusovereign.cymru](http://cymrusovereign.cymru/party-constitution-2)  
 [englishdemocrats.party](http://englishdemocrats.party/our-party/constitution)  
 [timeparty.uk](http://timeparty.uk/wp-content/uploads/2018/07/TimeParty-Constitution-rev22254.pdf)  
