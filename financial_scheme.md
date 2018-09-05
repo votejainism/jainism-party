@@ -107,3 +107,23 @@ Donations and Loans (regulated transactions)
 1.19 The Jainism Party will ensure that the party’s details that are registered with the Commission are kept up to date. We will inform the Commission of any changes to registered officers within 14 days of the change and any other changes within 28 days.  
   
 1.20 We will ensure that our RP8 annual confirmation of registered details and £25 fee are submitted to the Commission with the annual statement of accounts by 30 April of the following year (if our expenditure or income is less than £250,000) or by 7 July of the following year (if our expenditure or income exceeds £250,000).  
+  
+1.21 We note that failure to submit our RP8 annual confirmation of registered details within the prescribed timescale will result in our statutory removal from the register of political parties. We understand that this would mean that the party would no longer be able to field candidates at elections under the party name.  
+  
+### Penalties and offences  
+  
+1.22 The Jainism Party understands that the Commission may impose civil penalties on parties that fail to comply with their legal obligations, including failures to submit statutory returns on time. The party also understands that failure to comply with certain legal requirements of being a registered political party is a criminal offence.  
+  
+### Role of other party officers  
+  
+1.23 Should the appointment of the registered party treasurer terminate for any reason, then the registered party leader will, until a new treasurer is appointed, be treated as the party treasurer and will be responsible for ensuring that the party complies with its legal obligations.  
+  
+1.24 Should the treasurer whose appointment is terminated also be party leader, then the nominating officer will, until a new treasurer is appointed, be treated as the party treasurer.  
+  
+1.25 Should the treasurer whose appointment is terminated also be party leader and nominating officer, then the other registered officer will, until a new treasurer is appointed, be treated as the party treasurer.  
+  
+### Promoting compliance with the Act  
+  
+1.26 The Party will have processes in place to ensure compliance with its legal obligations. The registered treasurer, Ian White, will ensure that all other officers and members of the Jainism Party have sufficient knowledge of our financial obligations under the Act to ensure that the party as a whole complies with these obligations.  
+  
+### Amendments to the financial scheme
