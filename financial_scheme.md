@@ -47,7 +47,7 @@ Donations and Loans (regulated transactions)
   
 ### For donations:  
 - record information for all donations of more than £500, including:  
-\-  amount or value of the donation  
+\- amount or value of the donation  
 \- full name of donor  
 \- registered address of donor  
 \- company registration number (if applicable)  
