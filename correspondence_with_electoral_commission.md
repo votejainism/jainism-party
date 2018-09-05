@@ -19,15 +19,15 @@ To register a party, you will need to:
 - Pay the non-refundable £150 submission fee.
 - Fulfil the officer roles of party leader, treasurer, and nominating officer and have at least 2 people as officers. 
 
-**It is important that you carefully read this email and the Commission’s [Introduction to registering a political party](http://www.electoralcommission.org.uk/__data/assets/pdf_file/0004/107680/intro-registration-rp.pdf) as well as our other [guidance on registering and maintaining a party](http://www.electoralcommission.org.uk/i-am-a/party-or-campaigner/guidance-for-political-parties/registering-and-maintaining-a-party) in full before making an application.**  If an application is rejected for any reason, including not being completed properly, the £150 fee is non-refundable.
+**It is important that you carefully read this email and the Commission’s [Introduction to registering a political party](https://www.electoralcommission.org.uk/__data/assets/pdf_file/0004/107680/intro-registration-rp.pdf) as well as our other [guidance on registering and maintaining a party](https://www.electoralcommission.org.uk/i-am-a/party-or-campaigner/guidance-for-political-parties/registering-and-maintaining-a-party) in full before making an application.**  If an application is rejected for any reason, including not being completed properly, the £150 fee is non-refundable.
 
 #### Legal obligations of a political party
-A registered political party must comply with the controls and responsibilities set out in the Political Parties, Elections and Referendums Act 2000 (PPERA).  Failure to comply with the obligations may be a criminal offence which can attract prosecution or civil sanctions, including a fine. You can find our enforcement policy [here](http://www.electoralcommission.org.uk/__data/assets/pdf_file/0011/199703/April-2016-Enforcement-Policy.pdf). 
+A registered political party must comply with the controls and responsibilities set out in the Political Parties, Elections and Referendums Act 2000 (PPERA).  Failure to comply with the obligations may be a criminal offence which can attract prosecution or civil sanctions, including a fine. You can find our enforcement policy [here](https://www.electoralcommission.org.uk/__data/assets/pdf_file/0011/199703/April-2016-Enforcement-Policy.pdf). 
 
-Before deciding to apply to register a political party, you should ensure you read the Commission’s [introductory guidance for party treasurers](http://www.electoralcommission.org.uk/__data/assets/pdf_file/0013/102262/intro-party-treasurer-rp.pdf) to get an overview of the obligations of a registered political party.
+Before deciding to apply to register a political party, you should ensure you read the Commission’s [introductory guidance for party treasurers](https://www.electoralcommission.org.uk/__data/assets/pdf_file/0013/102262/intro-party-treasurer-rp.pdf) to get an overview of the obligations of a registered political party.
 
 #### Application
-If you wish to apply to register online you can do so by using our website [PEF Online](http://pefonline.electoralcommission.org.uk/Default.aspx). Here you can find guidance about [using PEF Online](http://www.electoralcommission.org.uk/__data/assets/pdf_file/0007/117799/sp-pefonline-rp-npc-rc.pdf). You can upload your constitution and financial scheme and you can pay the £150 when you submit your application. 
+If you wish to apply to register online you can do so by using our website [PEF Online](https://pefonline.electoralcommission.org.uk/Default.aspx). Here you can find guidance about [using PEF Online](http://www.electoralcommission.org.uk/__data/assets/pdf_file/0007/117799/sp-pefonline-rp-npc-rc.pdf). You can upload your constitution and financial scheme and you can pay the £150 when you submit your application. 
 
 If you wish to register a political party by post, you will need to complete an application form, constitution, financial scheme, and provide a cheque payment to the Electoral Commission at the address provided below.  You can find paper application forms on our website here:  
 [Form RP1GB: Application to register a political party in Great Britain (XLS)](https://www.electoralcommission.org.uk/__data/assets/excel_doc/0008/68309/form-rp1-gb.xls)  
@@ -42,14 +42,14 @@ Please note that the Registration Team cannot guarantee or provide a definitive 
 We aim to let a party know the outcome of their application within 30 working days of receiving a complete application.  If the party is applying with a view to standing candidates at a specific election, please ensure the application is lodged well before the close of nominations deadline. 
 
 #### Identity marks
-In deciding on what party name, descriptions and emblems to apply to register, you should ensure that you read the Commission’s guidance on party names, descriptions and emblems.
+In deciding on what party name, descriptions and emblems to apply to register, you should ensure that you read the Commission’s [guidance on party names, descriptions and emblems](https://www.electoralcommission.org.uk/__data/assets/pdf_file/0009/107694/to-names-rp.pdf).
 
 To further inform your decision, you should also undertake a search of the register of party names, descriptions and emblems to determine if there are any similar identity marks on the register.  You can undertake that search here.
 
 Please note that all applied-for descriptions must make the identity of the party clear.  For example, a way to do that is to include the party name in the description.
 
 #### Financial scheme
-To be registered a party must have adopted a financial scheme that demonstrates how the party will comply with the legal requirements of party and election finances under PPERA.  We produce a template scheme that you can use to create the party’s own financial scheme.  Please note that this is a template only and the scheme must accurately reflect the practices and arrangements of the party.
+To be registered a party must have adopted a financial scheme that demonstrates how the party will comply with the legal requirements of party and election finances under PPERA.  We produce a [template scheme](https://www.electoralcommission.org.uk/__data/assets/word_doc/0007/68317/doc-financial-rp.doc) that you can use to create the party’s own financial scheme.  Please note that this is a template only and the scheme must accurately reflect the practices and arrangements of the party.
 
 As part of the assessment process, a party may be asked to evidence how the party has adopted the financial scheme.  For example, a party may be asked about what procedures it has in place to deliver the obligations set out in its financial scheme.
 
