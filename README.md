@@ -13,6 +13,7 @@ nhaparty.org/about-nha-party/constitution-and-documents
 politike.al/wp-content/uploads/2016/03/Statuti-i-Partise-Nacionaliste-Britani.pdf  
 cymrusovereign.cymru/party-constitution-2  
 englishdemocrats.party/our-party/constitution  
+timeparty.uk/wp-content/uploads/2018/07/TimeParty-Constitution-rev22254.pdf  
   
 A financial scheme is also required.  
   
