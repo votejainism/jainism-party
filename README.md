@@ -22,5 +22,5 @@ Here is a link to the model financial scheme provided by the Commission:-
   
 Here are some links to the financial schemes of some already registered parties:-  
   
-nhaparty.org/wp-content/uploads/2013/01/Financial-scheme-2017.pdf  
-somethingnew.org.uk/about/documents/financial-scheme
+[somethingnew.org.uk](http://somethingnew.org.uk/about/documents/financial-scheme)  
+[nhaparty.org](http://nhaparty.org/wp-content/uploads/2013/01/Financial-scheme-2017.pdf)  
