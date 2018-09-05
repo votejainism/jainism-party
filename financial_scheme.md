@@ -126,4 +126,16 @@ Donations and Loans (regulated transactions)
   
 1.26 The Party will have processes in place to ensure compliance with its legal obligations. The registered treasurer, Ian White, will ensure that all other officers and members of the Jainism Party have sufficient knowledge of our financial obligations under the Act to ensure that the party as a whole complies with these obligations.  
   
-### Amendments to the financial scheme
+### Amendments to the financial scheme  
+  
+1.27 The registered treasurer, Ian White, will ensure that any proposed amendments to this financial scheme are submitted to the Commission for approval.  
+  
+### Signed  
+  
+Leader:  
+  
+Treasurer:  
+  
+Nominating officer:  
+  
+Other officer:
