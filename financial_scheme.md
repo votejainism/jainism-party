@@ -38,10 +38,10 @@ Donations and Loans (regulated transactions)
   
 1.9 The Jainism Party will report the donations and loans it receives each quarter to the Commission, for each of the registers it is registered on, within the following timescales:  
   
-quarter 1 (1 January - 31 March) by 30 April of that year  
-quarter 2 (1 April - 30 June) by 30 July of that year  
-quarter 3 (1 July - 30 September) by 30 October of that year  
-quarter 4 (1 October - 31 December) by 30 January of the following year  
+- quarter 1 (1 January - 31 March) by 30 April of that year  
+- quarter 2 (1 April - 30 June) by 30 July of that year  
+- quarter 3 (1 July - 30 September) by 30 October of that year  
+- quarter 4 (1 October - 31 December) by 30 January of the following year  
   
 1.10 In order to comply with this requirement, Ian White will:  
   
@@ -66,3 +66,20 @@ information about the trust (if applicable)
 1.11 We understand that if we submit four consecutive quarterly nil donation returns, we will then be exempt from submitting further quarterly returns in respect of donations until we receive a reportable donation.  
   
 1.12 We also understand that separate quarterly donation returns must be submitted if we appear on the Northern Ireland register of political parties.  
+  
+## For loans (regulated transactions):  
+- record information about all regulated transactions (loans, credit facilities, etc.) of more than £500, including:  
+value of benefit of the transaction  
+name of all authorised participants  
+registered addresses of participants  
+company registration number (if applicable)  
+nature of the transaction  
+date agreement entered  
+the terms of the transaction  
+- ensure that the party does not enter into any regulated transactions over £500 with unauthorised participants  
+- ensure that a submission of quarterly transaction reports covering transactions exceeding £7,500 (including aggregates of donations and regulated transactions) and any void transactions or transactions of more than £500 entered into with an unauthorised participant is made to the Commission within the prescribed timescales; submit a nil return if there are no reportable transactions  
+- ensure weekly regulated transaction reports can be submitted during UK Parliamentary election periods if we are contesting the election  
+  
+1.13 We understand that if the party has submitted four consecutive quarterly nil loans returns, we will then be exempt from submitting further quarterly returns until we enter into a reportable loan.  
+  
+1.14 We also understand that separate quarterly loan returns must be submitted if we appear on the Northern Ireland register of political parties.
