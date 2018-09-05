@@ -45,8 +45,8 @@ quarter 4 (1 October - 31 December) by 30 January of the following year
   
 1.10 In order to comply with this requirement, Ian White will:  
   
-# For donations:  
-record information for all donations of more than £500, including:  
+## For donations:  
+- record information for all donations of more than £500, including:  
 amount or value of the donation  
 full name of donor  
 registered address of donor  
@@ -55,13 +55,13 @@ date on which the donation was received
 date on which the donation was accepted or returned
 information about the trust (if applicable)
   
-check the permissibility of any donations over £500 within 30 days of receipt  
+- check the permissibility of any donations over £500 within 30 days of receipt  
   
-ensure that impermissible or unidentifiable donations of more than £500 to the party are recorded as outlined above and returned to the sender or financial institution that transferred the money or, if that is not possible, surrendered to the Commission  
+- ensure that impermissible or unidentifiable donations of more than £500 to the party are recorded as outlined above and returned to the sender or financial institution that transferred the money or, if that is not possible, surrendered to the Commission  
   
-ensure that a submission of quarterly donation reports covering donations exceeding £7,500 (including aggregates of donations and regulated transactions) and any impermissible or anonymous donations of more than £500 is made to the Commission within the above timescales; submitting a nil return if there are no reportable donations  
+- ensure that a submission of quarterly donation reports covering donations exceeding £7,500 (including aggregates of donations and regulated transactions) and any impermissible or anonymous donations of more than £500 is made to the Commission within the above timescales; submitting a nil return if there are no reportable donations  
   
-provide weekly donation reports to the Commission during UK Parliamentary election campaigns if we are contesting the election  
+- provide weekly donation reports to the Commission during UK Parliamentary election campaigns if we are contesting the election  
   
 1.11 We understand that if we submit four consecutive quarterly nil donation returns, we will then be exempt from submitting further quarterly returns in respect of donations until we receive a reportable donation.  
   
