@@ -29,9 +29,9 @@ Before deciding to apply to register a political party, you should ensure you re
 #### Application
 If you wish to apply to register online you can do so by using our website [PEF Online](http://pefonline.electoralcommission.org.uk/Default.aspx). Here you can find guidance about [using PEF Online](http://www.electoralcommission.org.uk/__data/assets/pdf_file/0007/117799/sp-pefonline-rp-npc-rc.pdf). You can upload your constitution and financial scheme and you can pay the £150 when you submit your application. 
 
-If you wish to register a political party by post, you will need to complete an application form, constitution, financial scheme, and provide a cheque payment to the Electoral Commission at the address provided below.  You can find paper application forms on our website here:
-Form RP1GB: Application to register a political party in Great Britain (XLS)
-Form RP1NI: Application to register a political party in Northern Ireland only (XLS)
+If you wish to register a political party by post, you will need to complete an application form, constitution, financial scheme, and provide a cheque payment to the Electoral Commission at the address provided below.  You can find paper application forms on our website here:  
+[Form RP1GB: Application to register a political party in Great Britain (XLS)](https://www.electoralcommission.org.uk/__data/assets/excel_doc/0008/68309/form-rp1-gb.xls)  
+[Form RP1NI: Application to register a political party in Northern Ireland only (XLS)](https://www.electoralcommission.org.uk/__data/assets/excel_doc/0004/68314/form-rp1-ni.xls)
 
 The Commission assesses all applications to register a political party on a case by case basis carefully in line with the requirements of the Political Parties, Elections and Referendums Act 2000 (PPERA).
 
