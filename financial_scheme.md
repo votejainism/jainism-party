@@ -1,26 +1,26 @@
 # The Financial Scheme of the Jainism Party  
   
-## Introduction  
+### Introduction  
   
 1.1 This scheme sets out how the Jainism Party (‘the party’) will organise its financial affairs to comply with the Political Parties, Elections and Referendums Act 2000 (‘the Act’).  
   
-## Constitution  
+### Constitution  
   
 1.2 A copy of the Jainism Party’s constitution, setting out our structure and organisation, and how we take decisions about the management of the party, is attached to this scheme or has been provided separately to the Electoral Commission.  
   
-## Accounting units  
+### Accounting units  
   
 1.3 The Jainism Party does not wish to register any separate accounting units with the Commission.  
   
-## Organisations within the party  
+### Organisations within the party  
   
 1.4 For the purpose of compliance with the Act, the financial affairs of any local branches or affiliated organisations of the party, whether currently existing or to be established in future, will be wholly controlled by the party treasurer.  
   
-## Financial year  
+### Financial year  
   
 1.5 The party’s financial year will run from 1 January to 31 December.  
   
-## Role of the party treasurer  
+### Role of the party treasurer  
   
 1.6 Mr Ian White, the registered treasurer of the Jainism Party, is responsible for the whole party’s compliance with the requirements of the Act, including the following:  
   
@@ -45,15 +45,15 @@ Donations and Loans (regulated transactions)
   
 1.10 In order to comply with this requirement, Ian White will:  
   
-## For donations:  
+### For donations:  
 - record information for all donations of more than £500, including:  
-amount or value of the donation  
-full name of donor  
-registered address of donor  
-company registration number (if applicable)
-date on which the donation was received
-date on which the donation was accepted or returned
-information about the trust (if applicable)
+\- amount or value of the donation  
+\- full name of donor  
+\- registered address of donor  
+\- company registration number (if applicable)
+\- date on which the donation was received
+\- date on which the donation was accepted or returned
+\- information about the trust (if applicable)
   
 - check the permissibility of any donations over £500 within 30 days of receipt  
   
@@ -67,19 +67,23 @@ information about the trust (if applicable)
   
 1.12 We also understand that separate quarterly donation returns must be submitted if we appear on the Northern Ireland register of political parties.  
   
-## For loans (regulated transactions):  
+### For loans (regulated transactions):  
 - record information about all regulated transactions (loans, credit facilities, etc.) of more than £500, including:  
-value of benefit of the transaction  
-name of all authorised participants  
-registered addresses of participants  
-company registration number (if applicable)  
-nature of the transaction  
-date agreement entered  
-the terms of the transaction  
+\- value of benefit of the transaction  
+\- name of all authorised participants  
+\- registered addresses of participants  
+\- company registration number (if applicable)  
+\- nature of the transaction  
+\- date agreement entered  
+\- the terms of the transaction  
 - ensure that the party does not enter into any regulated transactions over £500 with unauthorised participants  
 - ensure that a submission of quarterly transaction reports covering transactions exceeding £7,500 (including aggregates of donations and regulated transactions) and any void transactions or transactions of more than £500 entered into with an unauthorised participant is made to the Commission within the prescribed timescales; submit a nil return if there are no reportable transactions  
 - ensure weekly regulated transaction reports can be submitted during UK Parliamentary election periods if we are contesting the election  
   
 1.13 We understand that if the party has submitted four consecutive quarterly nil loans returns, we will then be exempt from submitting further quarterly returns until we enter into a reportable loan.  
   
-1.14 We also understand that separate quarterly loan returns must be submitted if we appear on the Northern Ireland register of political parties.
+1.14 We also understand that separate quarterly loan returns must be submitted if we appear on the Northern Ireland register of political parties.  
+  
+### Campaign expenditure  
+  
+1.15 The party will submit a campaign expenditure return if we have candidates contesting a UK Parliamentary election, European election, Scottish Parliamentary election, National Assembly of Wales election, or Northern Ireland Assembly election. The campaign expenditure return will be submitted within three months of the date of the election if our expenditure is less than £250,000 or within six months of the date of the election if our expenditure exceeds £250,000. We note that if our expenditure during the campaign exceeds £250,000 our return must be submitted with an auditor’s certificate.
