@@ -1,3 +1,5 @@
+### Correspondence with the Electoral Commission
+
 ### 21 August 2018 15:02
 
 I understand that at minimum a political party must consist of two people; the leader and an additional officer. My question is does this additional officer have to be a citizen of the United Kingdom? I'm interested in starting a political party.
