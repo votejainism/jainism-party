@@ -50,10 +50,10 @@ Donations and Loans (regulated transactions)
 \- amount or value of the donation  
 \- full name of donor  
 \- registered address of donor  
-\- company registration number (if applicable)
-\- date on which the donation was received
-\- date on which the donation was accepted or returned
-\- information about the trust (if applicable)
+\- company registration number (if applicable)  
+\- date on which the donation was received  
+\- date on which the donation was accepted or returned  
+\- information about the trust (if applicable)  
   
 - check the permissibility of any donations over £500 within 30 days of receipt  
   
@@ -86,4 +86,24 @@ Donations and Loans (regulated transactions)
   
 ### Campaign expenditure  
   
-1.15 The party will submit a campaign expenditure return if we have candidates contesting a UK Parliamentary election, European election, Scottish Parliamentary election, National Assembly of Wales election, or Northern Ireland Assembly election. The campaign expenditure return will be submitted within three months of the date of the election if our expenditure is less than £250,000 or within six months of the date of the election if our expenditure exceeds £250,000. We note that if our expenditure during the campaign exceeds £250,000 our return must be submitted with an auditor’s certificate.
+1.15 The party will submit a campaign expenditure return if we have candidates contesting a UK Parliamentary election, European election, Scottish Parliamentary election, National Assembly of Wales election, or Northern Ireland Assembly election. The campaign expenditure return will be submitted within three months of the date of the election if our expenditure is less than £250,000 or within six months of the date of the election if our expenditure exceeds £250,000. We note that if our expenditure during the campaign exceeds £250,000 our return must be submitted with an auditor’s certificate.  
+  
+1.16 In order to ensure compliance with the legislation, Ian White will:  
+  
+- ensure that campaign expenditure and claims payments are duly authorised, received and paid on time and that all relevant receipts and invoices are kept  
+- put in place budgeting and monitoring arrangements to ensure that campaign expenditure is within the statutory limits  
+- ensure the compilation, auditing (if necessary) and timely submission to the Commission of a campaign expenditure return within the statutory deadlines  
+  
+### Referendums  
+  
+1.17 If the party participates in a referendum to which Part VII of the Act applies, the Jainism Party will develop and put in place arrangements for complying with the controls on referendum expenditure. We will do this by adapting our arrangements for the control of campaign expenditure.  
+  
+### Grants  
+  
+1.18 The Jainism Party will ensure that any grants from the Commission to the party are spent in accordance with the conditions of grant imposed by the Commission. We agree to cooperate with any associated audit requirements specified by the Commission.  
+  
+### Changes to registered details  
+  
+1.19 The Jainism Party will ensure that the party’s details that are registered with the Commission are kept up to date. We will inform the Commission of any changes to registered officers within 14 days of the change and any other changes within 28 days.  
+  
+1.20 We will ensure that our RP8 annual confirmation of registered details and £25 fee are submitted to the Commission with the annual statement of accounts by 30 April of the following year (if our expenditure or income is less than £250,000) or by 7 July of the following year (if our expenditure or income exceeds £250,000).  
