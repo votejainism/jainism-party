@@ -30,7 +30,7 @@
   
 1.8 In order to comply with this requirement, Ian White has:  
   
--  put in place arrangements for ensuring that annual statements of accounts for the party are prepared, approved, audited where necessary and submitted to the Commission by the prescribed deadline for each register the party is on  
+- put in place arrangements for ensuring that annual statements of accounts for the party are prepared, approved, audited where necessary and submitted to the Commission by the prescribed deadline for each register the party is on  
   
 - put in place accounting processes capable of meeting the Act’s  accounting record keeping requirements and of any regulations made by the Commission about the format of statements of accounts  
   
@@ -47,7 +47,7 @@ Donations and Loans (regulated transactions)
   
 ### For donations:  
 - record information for all donations of more than £500, including:  
-\- amount or value of the donation  
+\-  amount or value of the donation  
 \- full name of donor  
 \- registered address of donor  
 \- company registration number (if applicable)  
