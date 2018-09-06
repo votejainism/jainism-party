@@ -46,7 +46,7 @@ We aim to let a party know the outcome of their application within 30 working da
 #### Identity marks
 In deciding on what party name, descriptions and emblems to apply to register, you should ensure that you read the Commission’s [guidance on party names, descriptions and emblems](https://www.electoralcommission.org.uk/__data/assets/pdf_file/0009/107694/to-names-rp.pdf).
 
-To further inform your decision, you should also undertake a search of the register of party names, descriptions and emblems to determine if there are any similar identity marks on the register.  You can undertake that search here.
+To further inform your decision, you should also undertake a search of the register of party names, descriptions and emblems to determine if there are any similar identity marks on the register.  You can undertake that search [here](http://search.electoralcommission.org.uk/Search/Registrations).
 
 Please note that all applied-for descriptions must make the identity of the party clear.  For example, a way to do that is to include the party name in the description.
 
